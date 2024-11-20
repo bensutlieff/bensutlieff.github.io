@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Page last updated in March 2023.*
-
 A fully up-to-date list of publications that I have written or contributed to can be found [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9962-132X&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 ******
 <h2>Published articles</h2>
+
+*List last updated in March 2023.*
 
 * *Measuring the variability of directly imaged exoplanets using vector Apodizing Phase Plates combined with ground-based differential spectrophotometry*  
   **B. J. Sutlieff**; J. L. Birkby; J.M. Stone; D. S. Doelman; M. A. Kenworthy; V. Panwar; A. J. Bohn; S. Ertel; F. Snik; C. E. Woodward; A. J. Skemer; J. M. Leisenring; K. G. Strassmeier; D. Charbonneau<br />
