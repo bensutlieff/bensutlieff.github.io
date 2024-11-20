@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-*Last updated in May 2021.*
+*Page last updated in May 2021.*
 
 ******
 
