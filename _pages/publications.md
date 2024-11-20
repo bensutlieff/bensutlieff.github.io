@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Last updated in March 2023.*
+*Page last updated in March 2023.*
 
-An up-to-date list of publications that I have written or contributed to can be found [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9962-132X&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+A fully up-to-date list of publications that I have written or contributed to can be found [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9962-132X&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 ******
 <h2>Published articles</h2>
