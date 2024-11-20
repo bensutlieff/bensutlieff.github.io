@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Postdoctoral researcher at the Institute for Astronomy, University of Edinburgh" # Your biography for the left-hand sidebar
   location         : "Edinburgh, UK"
-  employer         : "University of Edinburgh"
+  employer         : # "University of Edinburgh"
   uri              : # URL
   email            : "ben.sutlieff@roe.ac.uk"
 
@@ -38,15 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
-  scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "bensutlieff"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  scopus           : # URL   
 
   # Social media
   bluesky          : "bensutlieff.bsky.social" # Replace this with you Bluesky username
@@ -73,6 +65,14 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "bensutlieff"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood") 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
