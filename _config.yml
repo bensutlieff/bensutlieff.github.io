@@ -21,7 +21,7 @@ repository : "bensutlieff/bensutlieff.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar : "ben_sutlieff.jpg"
   name             : "Ben Sutlieff"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Postdoctoral researcher at the Institute for Astronomy, University of Edinburgh" # Your biography for the left-hand sidebar
