@@ -18,7 +18,7 @@ header:
 
 Beyond my work, I have many other interests.
 
-I have recently taken up the popular Scottish pastime of `Munro-bagging' (i.e. climbing the 282 Scottish mountains with an elevation of more than 914 metres/3,000 feet). I maintain a log of my progress in bagging the Munros and various other categories of mountains and hills [here](https://www.walkhighlands.co.uk/Forum/memberlist.php?mode=viewmap&u=265149).
+I have recently taken up the popular Scottish pastime of `Munro-bagging' (i.e. climbing the 282 Scottish mountains with an elevation of more than 914 metres/3,000 feet). I maintain a log of my progress in bagging the Munros and various other categories of mountains, hills, & islands [here](https://www.walkhighlands.co.uk/Forum/memberlist.php?mode=viewmap&u=265149).
 
 
 
