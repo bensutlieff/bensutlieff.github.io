@@ -22,5 +22,5 @@ I have recently taken up the popular Scottish pastime of 'Munro-bagging' (i.e. c
 
 
 
-*This page was last updated in November 2024.*
+*This page was last updated in December 2024.*
 
