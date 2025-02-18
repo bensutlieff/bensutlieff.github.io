@@ -22,7 +22,7 @@ I am a postdoctoral research associate in astronomy at the Institute for Astrono
 
 I completed my PhD at the [Anton Pannekoek Institute](https://api.uva.nl/) of the University of Amsterdam in The Netherlands. My advisor was [Jayne Birkby](http://users.ox.ac.uk/~phys2149/index.html) at the University of Oxford, who leads the exoZoo research group. My co-advisor was [Matthew Kenworthy](https://kenworthy.space/) at Leiden Observatory. Before I began my PhD, I completed an MPhys degree in Physics with Astrophysics at the University of Exeter in the United Kingdom. For my master's thesis, I worked in the research group of [Sasha Hinkley](https://physics-astronomy.exeter.ac.uk/people/profile/index.php?username=sh573), specialising in the field of direct exoplanet imaging.
 
-A recent version of my curriculum vitae can be found <a href="files/Ben_Sutlieff_CV_web_20250218.pdf">here (January 2025)</a>. Feel free to contact me at [ben.sutlieff@roe.ac.uk](mailto:ben.sutlieff@roe.ac.uk).
+A recent version of my curriculum vitae can be found <a href="files/Ben_Sutlieff_CV_web_20250218.pdf">here (February 2025)</a>. Feel free to contact me at [ben.sutlieff@roe.ac.uk](mailto:ben.sutlieff@roe.ac.uk).
 
 *This page was last updated in February 2025.*
 
