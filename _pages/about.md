@@ -26,8 +26,6 @@ A recent version of my curriculum vitae can be found <a href="files/Ben_Sutlieff
 
 *This page was last updated in February 2025.*
 
-<img src="images/Cerro_Toco_ALMA.jpeg" alt="Cerro Toco">
-
 <figure>
   <img src="images/Cerro_Toco_ALMA.jpeg" alt="Cerro Toco" style="width:100%">
   <figcaption>The view from Cerro Toco</figcaption>
