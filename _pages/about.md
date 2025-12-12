@@ -27,8 +27,8 @@ A recent version of my curriculum vitae can be found <a href="files/Ben_Sutlieff
 *This page was last updated in February 2025.*
 
 <figure>
-  <img src="images/Cerro_Toco_ALMA.jpeg" alt="Cerro Toco" style="width:100%">
-  <figcaption>The view from Cerro Toco</figcaption>
+  <img src="images/Cerro_Toco_ALMA.jpeg" alt="Me on Cerro Toco, Chile" style="width:100%">
+  <figcaption>Me at the summit of Cerro Toco, a 5604m-high dormant volcano in Chile. The Atacama Large Millimeter Array (ALMA) can be seen below on the Chajnantor plateau, and the mountain behind is Volcán Aguas Calientes at 5924m.</figcaption>
 </figure>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
