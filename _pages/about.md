@@ -27,7 +27,7 @@ A recent version of my curriculum vitae can be found <a href="files/Ben_Sutlieff
 *This page was last updated in December 2025.*
 
 <figure>
-  <img src="images/Cerro_Toco_ALMA.jpeg" alt="Me on Cerro Toco, Chile" style="width:100%">
+  <img src="images/Cerro_Toco_ALMA.JPG" alt="Me on Cerro Toco, Chile" style="width:100%">
   <figcaption>Me at the summit of Cerro Toco, a 5604m high dormant volcano in Chile, in December 2025. The Atacama Large Millimeter Array (ALMA) can be seen below on the Chajnantor plateau, and the mountain behind is Volcán Aguas Calientes at 5924m.</figcaption>
 </figure>
 
