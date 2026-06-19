@@ -17,7 +17,7 @@ A fully up-to-date list of all publications that I have written or contributed t
  2025, Monthly Notices of the Royal Astronomical Society; [doi:
     10.1093/mnras/staf1909](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.3191S/abstract)
 
-  * *Exploring the directly imaged HD 1160 system through spectroscopic characterization and high-cadence variability monitoring*  
+* *Exploring the directly imaged HD 1160 system through spectroscopic characterization and high-cadence variability monitoring*  
   **B. J. Sutlieff**; J. L. Birkby; J.M. Stone; A. Derkink; F. Backs; D. S. Doelman; M. A. Kenworthy; A. J. Bohn; S. Ertel; F. Snik; C. E. Woodward; I. Ilyin; A. J. Skemer; J. M. Leisenring; K. G. Strassmeier; J. Wang; D. Charbonneau; B. A. Biller<br />
  2024, Monthly Notices of the Royal Astronomical Society; [doi:
     10.1093/mnras/stae1315](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2168S/abstract)
