@@ -5,15 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-A fully up-to-date list of publications that I have written or contributed to can be found [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9962-132X&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+A fully up-to-date list of all publications that I have written or contributed to can be found [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9962-132X&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 ******
-<h2>Published articles</h2>
+<h2>First author peer-reviwed articles</h2>
 
-*List last updated in March 2023.*
+*List last updated in May 2026.*
+
+* *Chasing the storm: investigating the application of high-contrast imaging techniques in producing precise exoplanet light curves*  
+  **B. J. Sutlieff**; D. S. Doelman; J. L. Birkby; M. A. Kenworthy; J. M. Stone; F. Snik; S. Ertel; B. A. Biller; C. E. Woodward; A. J. Skemer; J. M. Leisenring; A. J. Bohn; L. T. Parker<br />
+ 2025, Monthly Notices of the Royal Astronomical Society; [doi:
+    10.1093/mnras/staf1909](https://ui.adsabs.harvard.edu/abs/2025MNRAS.544.3191S/abstract)
+
+  * *Exploring the directly imaged HD 1160 system through spectroscopic characterization and high-cadence variability monitoring*  
+  **B. J. Sutlieff**; J. L. Birkby; J.M. Stone; A. Derkink; F. Backs; D. S. Doelman; M. A. Kenworthy; A. J. Bohn; S. Ertel; F. Snik; C. E. Woodward; I. Ilyin; A. J. Skemer; J. M. Leisenring; K. G. Strassmeier; J. Wang; D. Charbonneau; B. A. Biller<br />
+ 2024, Monthly Notices of the Royal Astronomical Society; [doi:
+    10.1093/mnras/stae1315](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2168S/abstract)
 
 * *Measuring the variability of directly imaged exoplanets using vector Apodizing Phase Plates combined with ground-based differential spectrophotometry*  
-  **B. J. Sutlieff**; J. L. Birkby; J.M. Stone; D. S. Doelman; M. A. Kenworthy; V. Panwar; A. J. Bohn; S. Ertel; F. Snik; C. E. Woodward; A. J. Skemer; J. M. Leisenring; K. G. Strassmeier; D. Charbonneau<br />
+  **B. J. Sutlieff**; J. L. Birkby; J. M. Stone; D. S. Doelman; M. A. Kenworthy; V. Panwar; A. J. Bohn; S. Ertel; F. Snik; C. E. Woodward; A. J. Skemer; J. M. Leisenring; K. G. Strassmeier; D. Charbonneau<br />
  2023, Monthly Notices of the Royal Astronomical Society; [doi:
     10.1093/mnras/stad249](https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp..270S/abstract)
 
@@ -23,6 +33,7 @@ A fully up-to-date list of publications that I have written or contributed to ca
  2021, Monthly Notices of the Royal Astronomical Society; [doi:
     10.1093/mnras/stab1893](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.3224S/abstract)
 
+<!--
 * *The vector-apodizing phase plate coronagraph: design, current performance, and future development*  
   D. S. Doelman; F. Snik; E. H. Por; S. P. Bos; G. P. P. L. Otten; M. Kenworthy; S. Y. Haffert; M. Wilby; A. J. Bohn;<br />**B. J. Sutlieff**; K. Miller; M. Ouellet; J. de Boer; C. U. Keller; M. J. Escuti; S. Shi; N. Z. Warriner; K. Hornburg; J. L. Birkby; J. Males; K. M. Morzinski; L. M. Close; J. Codona; J. Long; L. Schatz; J. Lumbres; A. Rodack; K. Van Gorkom; A. Hedglen; O. Guyon; J. Lozi; T. Groff; J. Chilcote; N. Jovanovic; S. Thibault; C. de Jonge; G. Allain; C. Vallée; D. Patel; O. Côté; C. Marois; P. Hinz; J. Stone; A. Skemer; Z. Briesemeister; A. Boehle; A. M. Glauser; W. Taylor; P. Baudoz; E. Huby; O. Absil; B. Carlomagno; and C. Delacroix<br />
    2021, Applied Optics; [doi:
@@ -44,6 +55,7 @@ A fully up-to-date list of publications that I have written or contributed to ca
   F. Morales; A. Shannon; K. Stapelfeldt<br />
  2018, Monthly Notices of the Royal Astronomical Society; [doi:
     10.1093/mnras/sty1778](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.2757M/abstract)
+-->
 
 <!---
 {% if author.googlescholar %}
