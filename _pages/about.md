@@ -24,6 +24,8 @@ My main focus is in observing the variability of these substellar objects, and u
 
 I completed my PhD at the Anton Pannekoek Institute of the University of Amsterdam. Before this, I completed an MPhys degree in Physics with Astrophysics at the University of Exeter, where I first specialised in direct exoplanet imaging. A recent version of my curriculum vitae can be found <a href="files/Ben_Sutlieff_CV_web_20260620.pdf">here (June 2026)</a>. Feel free to contact me at [ben.sutlieff@roe.ac.uk](mailto:ben.sutlieff@roe.ac.uk).
 
+A fully up-to-date list of all publications that I have written or contributed to can be found [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9962-132X&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+
 *This page was last updated in June 2026.*
 
 <figure>
