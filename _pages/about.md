@@ -18,7 +18,9 @@ header:
     overlay_image: IMG_3937.jpg
 --- -->
 
-I am a postdoctoral research associate in astronomy at the Institute for Astronomy of the University of Edinburgh, studying exoplanet and brown dwarf atmospheres through direct imaging. My main focus is in observing the variability of these substellar objects, and understanding what this information can tell us about their atmospheres and evolution. I am also searching for new exoplanets using the latest instrumentation both on the ground and in space, as well as archival data. From May 2027 I will hold a Leverhulme Trust Early Career Fellowship at the University of Edinburgh.
+Hello! I am a postdoctoral research associate in astronomy at the Institute for Astronomy of the University of Edinburgh, studying exoplanet and brown dwarf atmospheres through direct imaging.
+
+My main focus is in observing the variability of these substellar objects, and understanding what this information can tell us about their atmospheres and evolution. I am also searching for new exoplanets using the latest instrumentation both on the ground and in space, as well as archival data. From May 2027 I will hold a Leverhulme Trust Early Career Fellowship at the University of Edinburgh.
 
 I completed my PhD at the Anton Pannekoek Institute of the University of Amsterdam. Before my PhD, I completed an MPhys degree in Physics with Astrophysics at the University of Exeter, where I first specialised in direct exoplanet imaging. A recent version of my curriculum vitae can be found <a href="files/Ben_Sutlieff_CV_web_20260620.pdf">here (June 2026)</a>. Feel free to contact me at [ben.sutlieff@roe.ac.uk](mailto:ben.sutlieff@roe.ac.uk).
 
