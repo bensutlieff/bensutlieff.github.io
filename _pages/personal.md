@@ -22,5 +22,10 @@ Since moving to Scotland, I have taken up the popular local pastime of 'Munro-ba
 
 
 
-*This page was last updated in December 2024.*
+*This page was last updated in June 2026.*
+
+<figure>
+  <img src="images/Beinn_a'_Chaorainn.jpeg " alt="Two astronomers during a winter ascent of Beinn a' Chaorainn, Scotland" style="width:100%">
+  <figcaption>Me and fellow astronomer Hin Leung on a winter hike in the Cairngorm mountains in February 2026. Photo taken by Adam Carnall during an ascent of Beinn a' Chaorainn.</figcaption>
+</figure>
 
