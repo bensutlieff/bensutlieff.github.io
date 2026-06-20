@@ -18,7 +18,7 @@ header:
     overlay_image: IMG_3937.jpg
 --- -->
 
-Hello! I am a postdoctoral research associate in astronomy at the Institute for Astronomy of the University of Edinburgh, studying exoplanet and brown dwarf atmospheres through direct imaging.
+Hello! I am a postdoctoral research associate in astronomy at the University of Edinburgh, studying exoplanet and brown dwarf atmospheres through direct imaging.
 
 My main focus is in observing the variability of these substellar objects, and understanding what this information can tell us about their atmospheres and evolution. I am also searching for new exoplanets using the latest instrumentation both on the ground and in space, as well as archival data. From May 2027 I will hold a Leverhulme Trust Early Career Fellowship at the University of Edinburgh.
 
