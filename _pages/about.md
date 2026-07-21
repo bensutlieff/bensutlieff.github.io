@@ -17,6 +17,7 @@ redirect_from:
 header:
     overlay_image: IMG_3937.jpg
 --- -->
+<b>Latest news: Check out our press release on the discovery of giant exoplanet β Pictoris d [here](https://www.eso.org/public/news/eso2609/)!<b>
 
 Hello! I am a postdoctoral research associate in astronomy at the University of Edinburgh, studying exoplanet and brown dwarf atmospheres through direct imaging.
 
