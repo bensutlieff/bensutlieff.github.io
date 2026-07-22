@@ -8,7 +8,7 @@ author_profile: true
 A fully up-to-date list of all publications that I have written or contributed to can be found [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9962-132X&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 ******
-<h2>First author peer-reviwed articles</h2>
+<h2>First author peer-reviewed articles</h2>
 
 *List last updated in July 2026.*
 
