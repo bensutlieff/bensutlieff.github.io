@@ -27,7 +27,7 @@ I completed my PhD at the Anton Pannekoek Institute of the University of Amsterd
 
 <b>A fully up-to-date list of my publications can be found [here](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9962-132X&sort=date%20desc%2C%20bibcode%20desc&p_=0).<b>
 
-*This page was last updated in June 2026.*
+*This page was last updated in July 2026.*
 
 <figure>
   <img src="images/Cerro_Toco_ALMA.JPG" alt="Me on Cerro Toco, Chile" style="width:100%">
