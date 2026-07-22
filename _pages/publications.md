@@ -10,11 +10,11 @@ A fully up-to-date list of all publications that I have written or contributed t
 ******
 <h2>First author peer-reviwed articles</h2>
 
-*List last updated in June 2026.*
+*List last updated in July 2026.*
 
 * *Direct Imaging Discovery of Giant Exoplanet β Pictoris d: A Decade-Long Game of Hide-and-Seek*  
   **Ben J. Sutlieff\***, Markus J. Bonse*, Valentin Christiaens, Clémence Fontanive, Elisabeth C. Matthews, Luke T. Parker, Tim D. Pearce, Jayne L. Birkby, Beth A. Biller, Trent J. Dupuy, + 87 others <br />
- 2026, The Astrophysical Journal Letters; [accepted](https://arxiv.org/abs/2606.23801) <br>
+ 2026, The Astrophysical Journal Letters; [doi: 10.3847/2041-8213/ae80a0](https://ui.adsabs.harvard.edu/abs/2026ApJ..1006L..10S/abstract) <br>
   *These two authors contributed equally to this work and should
 be considered joint first authors.
 
